@@ -1,5 +1,5 @@
 # shardnet-auto-update
-### Near node auto update with script
+### Near shardnet node auto update with script
 
 `wget https://github.com/Jokerank/shardnet-auto-update/blob/main/update.sh`
 
